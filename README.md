@@ -24,9 +24,11 @@ The dataset is comprised of 60,000 32×32 pixel color photographs of objects fro
 
 ![image](https://user-images.githubusercontent.com/37467941/148189987-7efe98f8-f9fe-4a2c-967a-fd9194c3b5ff.png)<br>
 
+---
+## <b>Result<br><br></b>
+---
 
 
-<b>Result<br><br></b>
 ![image](https://user-images.githubusercontent.com/37467941/148190125-2390fc9f-35c1-4c55-9281-15f96947e9e6.png)<br>
 ![image](https://user-images.githubusercontent.com/37467941/148193297-e33ed127-3019-466b-8362-6ff78686ab05.png)
 
