@@ -1,4 +1,4 @@
-# Photo-Classification
+# Image-Classification
 CIFAR-10 Photo Classification
 # CIFAR-10_Dataset_Classfication
 ---
