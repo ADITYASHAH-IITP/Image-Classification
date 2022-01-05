@@ -31,8 +31,8 @@ The dataset is comprised of 60,000 32×32 pixel color photographs of objects fro
 
 
 ---
----<br>
-Saving the entire mode<br>
+<br>
+<b>Saving the entire mode<br></b>
 from tensorflow.keras.callbacks import ModelCheckpoint  <br>
 checkpoint_path='/content/model_checkpoints'<br>
 checkpoint=ModelCheckpoint(filepath=checkpoint_path,frequency='epoch',save_weights_only=False,verbose=2)<br>
