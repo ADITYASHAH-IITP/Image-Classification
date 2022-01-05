@@ -31,3 +31,13 @@ The dataset is comprised of 60,000 32×32 pixel color photographs of objects fro
 
 
 ---
+---
+Saving the entire mode
+from tensorflow.keras.callbacks import ModelCheckpoint  
+checkpoint_path='/content/model_checkpoints'
+checkpoint=ModelCheckpoint(filepath=checkpoint_path,frequency='epoch',save_weights_only=False,verbose=2)
+<b>to delete model</b> --> del model
+from tensorflow.keras.models import load_model
+model=load_model(checkpoint_path)
+<b>manual save</b> --> model.save('my_model') or model.save('my_model.h5')
+---
